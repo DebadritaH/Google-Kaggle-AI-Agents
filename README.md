@@ -1,2 +1,2 @@
-# Generative-AI
-Gen-AI learning journey
+# 5-Day AI Agents Intensive with Google (Kaggle x Gemini)
+AI-Agents learning journey
